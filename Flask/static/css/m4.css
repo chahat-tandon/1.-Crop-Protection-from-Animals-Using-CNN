@@ -1,0 +1,12 @@
+body { 
+    width: 100%;
+    height:100%;
+    font-family: 'Open Sans', sans-serif;
+    background-image:url("https://www.google.com/imgres?imgurl=http%3A%2F%2Fimages.unsplash.com%2Fphoto-1500485035595-cbe6f645feb1%3Fixlib%3Drb-1.2.1%26q%3D80%26fm%3Djpg%26crop%3Dentropy%26cs%3Dtinysrgb%26w%3D1080%26fit%3Dmax&imgrefurl=https%3A%2F%2Funsplash.com%2Fwallpapers%2Fnature%2Fscenery&tbnid=WNRde0mkV_oa8M&vet=12ahUKEwji4M649s_rAhXQTSsKHQcpAGsQMygCegUIARDfAQ..i&docid=p4JwyZgERIgKxM&w=1080&h=1620&q=scenery&ved=2ahUKEwji4M649s_rAhXQTSsKHQcpAGsQMygCegUIARDfAQ");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+   
+    
+
+}
